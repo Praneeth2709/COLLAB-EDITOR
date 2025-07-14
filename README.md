@@ -28,3 +28,4 @@ The application can be run locally or deployed to a server, and users can access
 
 
 #output:
+<img width="594" height="230" alt="Image" src="https://github.com/user-attachments/assets/4c96a8e7-6fa3-4332-96f7-189e59e710c4" />
